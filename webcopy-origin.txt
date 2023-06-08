@@ -1,0 +1,68 @@
+Uri: http://takeiteasy.zone/favicon.ico
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://takeiteasy.zone/inventario
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\inventario.html
+Content Type: text/html
+
+Uri: http://takeiteasy.zone/static/css/styles.css
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\css\styles.css
+Content Type: text/css
+
+Uri: http://takeiteasy.zone/static/img/ai-14-2.svg
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\img\ai-14-2.svg
+Content Type: image/svg+xml
+
+Uri: http://takeiteasy.zone/static/img/ai-2.svg
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\img\ai-2.svg
+Content Type: image/svg+xml
+
+Uri: http://takeiteasy.zone/static/img/ai-3SH_azul.svg
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\img\ai-3SH_azul.svg
+Content Type: image/svg+xml
+
+Uri: http://takeiteasy.zone/static/img/ai-4.svg
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\img\ai-4.svg
+Content Type: image/svg+xml
+
+Uri: http://takeiteasy.zone/static/img/effect/shap_round.svg
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\img\effect\shap_round.svg
+Content Type: image/svg+xml
+
+Uri: http://takeiteasy.zone/static/img/logo-light.svg
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\img\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: http://takeiteasy.zone/static/img/logo.svg
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: http://takeiteasy.zone/static/img/vs.gif
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\img\vs.gif
+Content Type: image/gif
+
+Uri: http://takeiteasy.zone/static/js/custom.js
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\js\custom.js
+Content Type: application/javascript
+
+Uri: http://takeiteasy.zone/static/js/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: http://takeiteasy.zone/static/js/jquery-migrate-3.0.0.min.js
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\js\jquery-migrate-3.0.0.min.js
+Content Type: application/javascript
+
+Uri: http://takeiteasy.zone/static/plugin/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\plugin\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://takeiteasy.zone/static/plugin/bootstrap/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\plugin\bootstrap\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: http://takeiteasy.zone/static/plugin/font-awesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\takeiteasy.zone\static\plugin\font-awesome\css\all.min.css
+Content Type: text/css
+
