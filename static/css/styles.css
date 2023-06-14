@@ -1,3 +1,21 @@
+/**remaquetado**/
+.container-home-banner {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  
+}
+.container-content-home-banner {
+  position: absolute;
+  margin-top: 70px;
+  font-size: 1rem;
+  margin-left: 25px;
+}
+.new-title-banner {
+  color: white;
+  width: 45%;
+   
+}
+.new-title-min-banner {}
 
 body {
   font-family: "Nunito Sans", sans-serif;
